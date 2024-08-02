@@ -1,0 +1,1 @@
+# Ninjacore_localize
